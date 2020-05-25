@@ -9,3 +9,6 @@ I have reached a rest stop.  I was almost killed by UnboundLocalError, but alas,
 
 ## Commit: Unsure
 I am unsure of what commit I am at now.  Too many to count.
+
+## Commit: Whitelist beginning
+Beginning the testing of the whitelist
