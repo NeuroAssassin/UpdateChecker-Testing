@@ -17,3 +17,4 @@ Forgot commit name had to be different
 im done
 testin duplicate commit name
 again
+testing hash field
